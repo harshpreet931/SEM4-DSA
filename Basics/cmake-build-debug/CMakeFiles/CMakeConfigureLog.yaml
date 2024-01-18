@@ -61,8 +61,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/Harashpreet Singh/Desktop/SEM 4/DSA/Arrays/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ckyu4p"
-      binary: "C:/Users/Harashpreet Singh/Desktop/SEM 4/DSA/Arrays/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ckyu4p"
+      source: "C:/Users/Harashpreet Singh/Desktop/SEM 4/DSA/Basics/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ckyu4p"
+      binary: "C:/Users/Harashpreet Singh/Desktop/SEM 4/DSA/Basics/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ckyu4p"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -239,8 +239,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/Harashpreet Singh/Desktop/SEM 4/DSA/Arrays/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qmqnw9"
-      binary: "C:/Users/Harashpreet Singh/Desktop/SEM 4/DSA/Arrays/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qmqnw9"
+      source: "C:/Users/Harashpreet Singh/Desktop/SEM 4/DSA/Basics/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qmqnw9"
+      binary: "C:/Users/Harashpreet Singh/Desktop/SEM 4/DSA/Basics/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qmqnw9"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"

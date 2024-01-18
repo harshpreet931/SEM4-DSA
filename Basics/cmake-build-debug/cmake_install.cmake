@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Harashpreet Singh/Desktop/SEM 4/DSA/Arrays
+# Install script for directory: C:/Users/Harashpreet Singh/Desktop/SEM 4/DSA/Basics
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
